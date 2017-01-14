@@ -1,7 +1,8 @@
-# My FIRST page
+## This is my site
 
-## with a subheading.
+--------
 
-And here is some normal text.
+### **Experimenting** 
 
-here is more text.
+
+Making it **bold**. What about *italics*?
