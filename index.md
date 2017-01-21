@@ -2,7 +2,7 @@
 
 here's a first line!!!
 
-# This is my site
+# This is MY site
 
 
 Making it **bold**. What about *italics*?
