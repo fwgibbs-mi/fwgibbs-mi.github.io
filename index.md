@@ -5,6 +5,6 @@
 ### **Experimenting**
 
 
-let's add anthoer one!
+let's add another one!
 
 Making it **bold**. What about *italics*?
